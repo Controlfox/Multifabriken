@@ -1,0 +1,15 @@
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/bin/Debug/net8.0/Multifabriken
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/bin/Debug/net8.0/Multifabriken.deps.json
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/bin/Debug/net8.0/Multifabriken.runtimeconfig.json
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/bin/Debug/net8.0/Multifabriken.dll
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/bin/Debug/net8.0/Multifabriken.pdb
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.AssemblyInfoInputs.cache
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.AssemblyInfo.cs
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.csproj.CoreCompileInputs.cache
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.sourcelink.json
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.dll
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/refint/Multifabriken.dll
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.pdb
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/Multifabriken.genruntimeconfig.cache
+/Users/tintinlarsson/Documents/Webbutveckling.NET/Multifabriken/Multifabriken/obj/Debug/net8.0/ref/Multifabriken.dll
